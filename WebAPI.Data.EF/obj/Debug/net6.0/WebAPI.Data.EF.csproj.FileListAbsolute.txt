@@ -1,0 +1,15 @@
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\bin\Debug\net6.0\WebAPI.Data.EF.deps.json
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\bin\Debug\net6.0\WebAPI.Data.EF.dll
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\bin\Debug\net6.0\WebAPI.Data.EF.pdb
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\bin\Debug\net6.0\WebAPI.Models.dll
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\bin\Debug\net6.0\WebAPI.Models.pdb
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\obj\Debug\net6.0\WebAPI.Data.EF.csproj.AssemblyReference.cache
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\obj\Debug\net6.0\WebAPI.Data.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\obj\Debug\net6.0\WebAPI.Data.EF.AssemblyInfoInputs.cache
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\obj\Debug\net6.0\WebAPI.Data.EF.AssemblyInfo.cs
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\obj\Debug\net6.0\WebAPI.Data.EF.csproj.CoreCompileInputs.cache
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\obj\Debug\net6.0\WebAPI.Data.EF.csproj.CopyComplete
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\obj\Debug\net6.0\WebAPI.Data.EF.dll
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\obj\Debug\net6.0\refint\WebAPI.Data.EF.dll
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\obj\Debug\net6.0\WebAPI.Data.EF.pdb
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Data.EF\obj\Debug\net6.0\ref\WebAPI.Data.EF.dll

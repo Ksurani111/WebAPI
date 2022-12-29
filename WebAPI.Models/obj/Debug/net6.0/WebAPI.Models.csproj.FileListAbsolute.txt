@@ -1,0 +1,12 @@
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\bin\Debug\net6.0\WebAPI.Models.deps.json
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\bin\Debug\net6.0\WebAPI.Models.dll
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\bin\Debug\net6.0\WebAPI.Models.pdb
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\obj\Debug\net6.0\WebAPI.Models.csproj.AssemblyReference.cache
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\obj\Debug\net6.0\WebAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\obj\Debug\net6.0\WebAPI.Models.AssemblyInfoInputs.cache
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\obj\Debug\net6.0\WebAPI.Models.AssemblyInfo.cs
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\obj\Debug\net6.0\WebAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\obj\Debug\net6.0\WebAPI.Models.dll
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\obj\Debug\net6.0\refint\WebAPI.Models.dll
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\obj\Debug\net6.0\WebAPI.Models.pdb
+C:\Users\Keyur\source\repos\WebApi\WebAPI.Models\obj\Debug\net6.0\ref\WebAPI.Models.dll
